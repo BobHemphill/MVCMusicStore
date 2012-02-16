@@ -1,0 +1,5 @@
+C:\Euler\mvcmusicstore\bobh\MyMusicStore\MyMusicStore\bin\MyMusicStore.dll
+C:\Euler\mvcmusicstore\bobh\MyMusicStore\MyMusicStore\bin\MyMusicStore.pdb
+C:\Euler\mvcmusicstore\bobh\MyMusicStore\MyMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Euler\mvcmusicstore\bobh\MyMusicStore\MyMusicStore\obj\Debug\MyMusicStore.dll
+C:\Euler\mvcmusicstore\bobh\MyMusicStore\MyMusicStore\obj\Debug\MyMusicStore.pdb
