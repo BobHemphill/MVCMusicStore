@@ -11,9 +11,9 @@ namespace MyMusicStore.Controllers
         //
         // GET: /Homew/
 
-        public string Index()
+        public ActionResult Index()
         {
-            return "Hello from Home";
+            return View();
         }
 
     }
