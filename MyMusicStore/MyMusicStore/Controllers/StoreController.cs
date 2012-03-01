@@ -7,17 +7,22 @@ using MyMusicStore.Models;
 
 namespace MyMusicStore.Controllers {
 	public class StoreController : Controller {
-		public string Index() {
-			return "Hello from Store.Index()";
+		public ActionResult Index() {
+			var genres = new List<Genre>{
+				new Genre { Name = "Disco"},
+				new Genre { Name = "Jazz"},
+				new Genre { Name = "Rock"}
+			};
+			return View(genres);
 		}
 
 		public ActionResult Browse(string genre) {
-			var genreModel = new Genre {Name = "Genre " + genre};
+			var genreModel = new Genre { Name =  genre };
 			return View(genreModel);
 		}
 
 		public ActionResult Details(int id) {
-			var albumModel = new Album {Title = "Album " + id};
+			var albumModel = new Album { Title = "Album " + id };
 			return View(albumModel);
 		}
 	}

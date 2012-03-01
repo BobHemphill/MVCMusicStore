@@ -12,26 +12,38 @@
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:HomeController.cs" caret="313" fromTop="15" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Home/f:Index.cshtml" caret="71" fromTop="5" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Shared/f:_Layout.cshtml" caret="562" fromTop="16" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Genre.cs" caret="179" fromTop="7" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Album.cs" caret="225" fromTop="10" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/f:_ViewStart.cshtml" caret="52" fromTop="2" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="415" fromTop="15" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Store/f:Browse.cshtml" caret="98" fromTop="6" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Store/f:Details.cshtml" caret="90" fromTop="6" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Store/f:Index.cshtml" caret="273" fromTop="10" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Store/f:Browse.cshtml" caret="98" fromTop="6" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="516" fromTop="19" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Artist.cs" caret="217" fromTop="8" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Album.cs" caret="399" fromTop="15" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Genre.cs" caret="316" fromTop="13" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/f:Web.config" caret="1664" fromTop="25" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:MusicStoreEntities.cs" caret="204" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:HomeController.cs" caret="174" fromTop="8" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="226" fromTop="8" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="568" fromTop="17" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="694" fromTop="17" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:HomeController.cs" caret="317" fromTop="15" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Home/f:Index.cshtml" caret="64" fromTop="4" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Shared/f:_Layout.cshtml" caret="408" fromTop="12" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Genre.cs" caret="176" fromTop="7" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Album.cs" caret="168" fromTop="7" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="428" fromTop="15" />
-      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="561" fromTop="20" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="658" fromTop="15" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="687" fromTop="20" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Store/f:Browse.cshtml" caret="98" fromTop="6" />
       <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Store/f:Details.cshtml" caret="90" fromTop="6" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="0" fromTop="0" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="290" fromTop="10" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="395" fromTop="14" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Views/d:Store/f:Index.cshtml" caret="273" fromTop="10" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Controllers/f:StoreController.cs" caret="513" fromTop="19" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Artist.cs" caret="217" fromTop="8" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Album.cs" caret="425" fromTop="16" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:Genre.cs" caret="270" fromTop="11" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/f:Web.config" caret="1661" fromTop="25" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:MusicStoreEntities.cs" caret="195" fromTop="6" />
+      <File id="1023FF81-E439-46B4-B639-B8A8D0D4EA02/d:Models/f:MusicStoreEntities.cs" caret="113" fromTop="4" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -47,13 +59,13 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="string" priority="3" />
+      <Item value="string" priority="4" />
       <Item value="HttpUtility`0" priority="0" />
       <Item value="genre" priority="2" />
-      <Item value="int" priority="0" />
+      <Item value="int" priority="1" />
       <Item value="ActionResult`0" priority="1" />
       <Item value="View`0" priority="2" />
-      <Item value="public" priority="1" />
+      <Item value="public" priority="3" />
       <Item value="Genre`0" priority="2" />
       <Item value="var" priority="1" />
       <Item value="Title" priority="0" />
@@ -61,6 +73,9 @@
       <Item value="new" priority="0" />
       <Item value="Name" priority="0" />
       <Item value="IDependencyResolver`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Data" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Web.HttpUtility">
       <Item value="HtmlEncode`0" priority="0" />
